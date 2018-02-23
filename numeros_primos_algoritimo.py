@@ -51,4 +51,5 @@ if __name__ == "__main__":
    performance(prime, 100000)
    performance(prime2, 100000)
    performance(prime3, 100000)
+   performance(prime3, 1154748774544989778484848484411)
 
