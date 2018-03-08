@@ -48,8 +48,8 @@ def performance(function, n):
 
 
 if __name__ == "__main__":
-   performance(prime, 100000)
+   performance(prime, 11)
    performance(prime2, 100000)
-   performance(prime3, 100000)
+   performance(prime3, 219381821828278721281232982399283982310)
    performance(prime3, 1154748774544989778484848484411)
 
