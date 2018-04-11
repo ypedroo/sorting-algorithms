@@ -33,3 +33,7 @@ def sort(items, base):
 
         
         j = j + 1
+
+if __name__ == '__main__':
+    list = [5, 10, 58, 23, 1, 2]
+    sort(list,0)
