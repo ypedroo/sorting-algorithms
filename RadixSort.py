@@ -36,4 +36,4 @@ def sort(items, base):
 
 if __name__ == '__main__':
     list = [5, 10, 58, 23, 1, 2]
-    sort(list,0)
+    
