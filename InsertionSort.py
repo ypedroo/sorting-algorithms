@@ -1,3 +1,4 @@
+#this algotithim is used to order a list in the inplace mode
 def insertion_sort(A, comp):
     for k in range(1,len(A)):
         current = A[k]
